@@ -17,28 +17,6 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>政治必修二</title>
-    <link href="https://wangyijin209.github.io/wangyijin209/2021/12/03/%E6%94%BF%E6%B2%BB%E5%BF%85%E4%BF%AE%E4%BA%8C/"/>
-    <id>https://wangyijin209.github.io/wangyijin209/2021/12/03/%E6%94%BF%E6%B2%BB%E5%BF%85%E4%BF%AE%E4%BA%8C/</id>
-    <published>2021-12-03T15:17:55.000Z</published>
-    <updated>2022-05-15T06:21:55.000Z</updated>
-    
-    <content type="html"><![CDATA[<script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script><div id="poem_sentence"></div><div id="poem_info"></div><script type="text/javascript">  jinrishici.load(function(result) {    var sentence = document.querySelector("#poem_sentence")    var info = document.querySelector("#poem_info")    sentence.innerHTML = result.data.content    info.innerHTML = '【' + result.data.origin.dynasty + '】' + result.data.origin.author + '《' + result.data.origin.title + '》'  });</script><hr><h1 id="第一课"><a href="#第一课" class="headerlink" title="第一课"></a>第一课</h1><p><img src="https://pic.imgdb.cn/item/61aa36672ab3f51d91b493fe.jpg"><br><img src="https://pic.imgdb.cn/item/61aa36ef2ab3f51d91b51e26.jpg"></p><h1 id="第二课"><a href="#第二课" class="headerlink" title="第二课"></a>第二课</h1><p><img src="https://pic.imgdb.cn/item/61aa36fa2ab3f51d91b52494.jpg"><br><img src="https://pic.imgdb.cn/item/61aa37122ab3f51d91b53388.jpg"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;script src=&quot;https://sdk.jinrishici.com/v2/browser/jinrishici.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-&lt;div id=&quot;poem_sentence&quot;&gt;&lt;/div&gt;
-&lt;div id=&quot;poem_inf</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>建造究极生存之家</title>
     <link href="https://wangyijin209.github.io/wangyijin209/2021/11/21/%E5%BB%BA%E9%80%A0%E7%A9%B6%E6%9E%81%E7%94%9F%E5%AD%98%E4%B9%8B%E5%AE%B6/"/>
     <id>https://wangyijin209.github.io/wangyijin209/2021/11/21/%E5%BB%BA%E9%80%A0%E7%A9%B6%E6%9E%81%E7%94%9F%E5%AD%98%E4%B9%8B%E5%AE%B6/</id>
@@ -181,54 +159,6 @@
   </entry>
   
   <entry>
-    <title>地理必修一</title>
-    <link href="https://wangyijin209.github.io/wangyijin209/2021/10/28/%E5%9C%B0%E7%90%86%E5%BF%85%E4%BF%AE%E4%B8%80/"/>
-    <id>https://wangyijin209.github.io/wangyijin209/2021/10/28/%E5%9C%B0%E7%90%86%E5%BF%85%E4%BF%AE%E4%B8%80/</id>
-    <published>2021-10-28T14:01:25.000Z</published>
-    <updated>2022-05-15T06:21:55.000Z</updated>
-    
-    <content type="html"><![CDATA[<script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script><div id="poem_sentence"></div><div id="poem_info"></div><script type="text/javascript">  jinrishici.load(function(result) {    var sentence = document.querySelector("#poem_sentence")    var info = document.querySelector("#poem_info")    sentence.innerHTML = result.data.content    info.innerHTML = '【' + result.data.origin.dynasty + '】' + result.data.origin.author + '《' + result.data.origin.title + '》'  });</script><hr><h1 id="第一章"><a href="#第一章" class="headerlink" title="第一章"></a>第一章</h1><h2 id="复习指引"><a href="#复习指引" class="headerlink" title="复习指引"></a>复习指引</h2><p><img src="https://pic.imgdb.cn/item/617ab5b62ab3f51d91346540.jpg"></p><h2 id="第三节"><a href="#第三节" class="headerlink" title="第三节"></a>第三节</h2><p><img src="https://pic.imgdb.cn/item/617aaedb2ab3f51d912c33d9.jpg"></p><h1 id="第二章"><a href="#第二章" class="headerlink" title="第二章"></a>第二章</h1><h2 id="第一节"><a href="#第一节" class="headerlink" title="第一节"></a>第一节</h2><h1 id="第三章"><a href="#第三章" class="headerlink" title="第三章"></a>第三章</h1><h2 id="第一节-1"><a href="#第一节-1" class="headerlink" title="第一节"></a>第一节</h2><p><img src="https://pic.imgdb.cn/item/617ab61f2ab3f51d9134f18b.jpg"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;script src=&quot;https://sdk.jinrishici.com/v2/browser/jinrishici.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-&lt;div id=&quot;poem_sentence&quot;&gt;&lt;/div&gt;
-&lt;div id=&quot;poem_inf</summary>
-      
-    
-    
-    
-    
-    <category term="地理" scheme="https://wangyijin209.github.io/wangyijin209/tags/%E5%9C%B0%E7%90%86/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>历史必修一</title>
-    <link href="https://wangyijin209.github.io/wangyijin209/2021/10/22/%E5%8E%86%E5%8F%B2/"/>
-    <id>https://wangyijin209.github.io/wangyijin209/2021/10/22/%E5%8E%86%E5%8F%B2/</id>
-    <published>2021-10-22T12:25:25.000Z</published>
-    <updated>2022-05-15T06:21:55.000Z</updated>
-    
-    <content type="html"><![CDATA[<script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script><div id="poem_sentence"></div><div id="poem_info"></div><script type="text/javascript">  jinrishici.load(function(result) {    var sentence = document.querySelector("#poem_sentence")    var info = document.querySelector("#poem_info")    sentence.innerHTML = result.data.content    info.innerHTML = '【' + result.data.origin.dynasty + '】' + result.data.origin.author + '《' + result.data.origin.title + '》'  });</script><hr><h1 id="第一课"><a href="#第一课" class="headerlink" title="第一课"></a><a href="https://www.mubucm.com/doc/fKyVR9zSrI">第一课</a></h1><p><img src="https://pic.imgdb.cn/item/6172ae822ab3f51d91f2bafa.png"><br><img src="https://pic.imgdb.cn/item/617974e92ab3f51d913ea0ce.jpg"></p><h1 id="第二课"><a href="#第二课" class="headerlink" title="第二课"></a><a href="https://www.mubucm.com/doc/2_cPhL7O2rI">第二课</a></h1><p><img src="https://pic.imgdb.cn/item/6172af292ab3f51d91f38483.png"><br><img src="https://pic.imgdb.cn/item/6179757c2ab3f51d913faea2.jpg"></p><h1 id="第三课"><a href="#第三课" class="headerlink" title="第三课"></a>第三课</h1><p><img src="https://pic.imgdb.cn/item/617bf5212ab3f51d9142a022.jpg"></p><h1 id="第四课"><a href="#第四课" class="headerlink" title="第四课"></a>第四课</h1><p><img src="https://pic.imgdb.cn/item/617bf6002ab3f51d9143a87c.jpg"></p><h1 id="第五课"><a href="#第五课" class="headerlink" title="第五课"></a>第五课</h1><p><img src="https://pic.imgdb.cn/item/617bf6b12ab3f51d91449227.jpg"></p><h1 id="第六课"><a href="#第六课" class="headerlink" title="第六课"></a>第六课</h1><p><img src="https://pic.imgdb.cn/item/617c0f2c2ab3f51d916aeede.jpg"></p><h1 id="第七课"><a href="#第七课" class="headerlink" title="第七课"></a>第七课</h1><h1 id="第八课"><a href="#第八课" class="headerlink" title="第八课"></a>第八课</h1><p><img src="https://pic.imgdb.cn/item/617c0f7c2ab3f51d916b4327.jpg"></p><h1 id="第九课"><a href="#第九课" class="headerlink" title="第九课"></a>第九课</h1><p><img src="https://pic.imgdb.cn/item/617c11512ab3f51d916d774d.jpg"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;script src=&quot;https://sdk.jinrishici.com/v2/browser/jinrishici.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-&lt;div id=&quot;poem_sentence&quot;&gt;&lt;/div&gt;
-&lt;div id=&quot;poem_inf</summary>
-      
-    
-    
-    
-    
-    <category term="历史" scheme="https://wangyijin209.github.io/wangyijin209/tags/%E5%8E%86%E5%8F%B2/"/>
-    
-  </entry>
-  
-  <entry>
     <title>linux常用命令</title>
     <link href="https://wangyijin209.github.io/wangyijin209/2021/10/18/linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/"/>
     <id>https://wangyijin209.github.io/wangyijin209/2021/10/18/linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</id>
@@ -301,150 +231,6 @@
   </entry>
   
   <entry>
-    <title>生物必修一</title>
-    <link href="https://wangyijin209.github.io/wangyijin209/2021/10/14/%E7%94%9F%E7%89%A9%E5%BF%85%E4%BF%AE%E4%B8%80/"/>
-    <id>https://wangyijin209.github.io/wangyijin209/2021/10/14/%E7%94%9F%E7%89%A9%E5%BF%85%E4%BF%AE%E4%B8%80/</id>
-    <published>2021-10-14T14:22:06.000Z</published>
-    <updated>2022-05-15T06:21:55.000Z</updated>
-    
-    <content type="html"><![CDATA[<script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script><div id="poem_sentence"></div><div id="poem_info"></div><script type="text/javascript">  jinrishici.load(function(result) {    var sentence = document.querySelector("#poem_sentence")    var info = document.querySelector("#poem_info")    sentence.innerHTML = result.data.content    info.innerHTML = '【' + result.data.origin.dynasty + '】' + result.data.origin.author + '《' + result.data.origin.title + '》'  });</script><hr><p>#第一章 走进细胞</p><h2 id="第一节-细胞是生命活动的基本单位"><a href="#第一节-细胞是生命活动的基本单位" class="headerlink" title="第一节 细胞是生命活动的基本单位"></a>第一节 细胞是生命活动的基本单位</h2><h3 id="细胞学说及其建立过程"><a href="#细胞学说及其建立过程" class="headerlink" title="细胞学说及其建立过程"></a>细胞学说及其建立过程</h3><p><strong>施旺和施莱登</strong><br>1.细胞是一个有机体，一切<code>动植物</code>都由细胞发育而来，并由细胞和细胞的产物所构成；<br>2.细胞是一个相对独立的个体，既有它自己的生命，又对其他细胞共同组成的整体生命起作用；<br>3.新细胞是由老细胞<code>分裂</code>产生的</p><p>比夏指出器官由低一层次的结构——组织构成（从器官到组织）<br>罗伯特·胡克用显微镜观察植物木栓组织，发现规则的小室，并把“小室”称为<code>cell——细胞</code>（认识细胞<strong>命名</strong>）<br>施莱登发现组织都是由细胞构成的。施旺认为动物体也是由细胞构成的<br>魏尔肖总结出<code>“细胞通过分裂产生新细胞”</code>（细胞学说在修正中前进）</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">细胞学说揭示了动物和植物的统一性，从而阐明了生物界的统一性</span><br></pre></td></tr></table></figure><p>细胞学说在思想观念上打破了在植物学和动物学之间横亘已久的壁垒</p><h3 id="细胞是基本的生命系统"><a href="#细胞是基本的生命系统" class="headerlink" title="细胞是基本的生命系统"></a>细胞是基本的生命系统</h3><p><strong>种群</strong>——在一定空间范围内，同种生物的所有个体形成一个整体<br><strong>群落</strong>——不同种群相互作用形成更大的整体<br><strong>生态系统</strong>——群落与无极环境相互作用形成更大的整体<br><strong>生物圈</strong>——地球上所有的生态系统相互关联构成更大的整体<br><em><strong>不论从结构上还是功能上看，细胞这个生命系统都属于最基本的层次</strong></em></p><h2 id="第二节-细胞的多样性"><a href="#第二节-细胞的多样性" class="headerlink" title="第二节 细胞的多样性"></a>第二节 细胞的多样性</h2><h3 id="原核细胞和真核细胞"><a href="#原核细胞和真核细胞" class="headerlink" title="原核细胞和真核细胞"></a>原核细胞和真核细胞</h3><p>分类:<em>细胞有无以核膜为界限的细胞核</em></p><h4 id="真核"><a href="#真核" class="headerlink" title="真核"></a>真核</h4><p>eg:植物、动物、真菌（酵母菌）</p><h4 id="原核"><a href="#原核" class="headerlink" title="原核"></a>原核</h4><p>eg:细菌（蓝细菌）、放线菌、支原体（<em>无细胞壁</em>）、衣原体、立克次氏体<br><strong>蓝细菌细胞内含藻蓝素和叶绿素（自养生物）</strong><br><em><strong>细菌细胞没有细胞核，没有染色体，有环状DNA</strong></em></p><h1 id="第二章-组成细胞的分子"><a href="#第二章-组成细胞的分子" class="headerlink" title="第二章 组成细胞的分子"></a>第二章 组成细胞的分子</h1><h2 id="第一节-细胞中的元素和化合物"><a href="#第一节-细胞中的元素和化合物" class="headerlink" title="第一节 细胞中的元素和化合物"></a>第一节 细胞中的元素和化合物</h2><p>生物界与非生物界的统一性：组成细胞的化学元素，在无机自然界中都能够找到<br>生物界与非生物界的差异性：细胞中各种元素的相对含量与无机自然界大不相同</p><h3 id="组成细胞的元素"><a href="#组成细胞的元素" class="headerlink" title="组成细胞的元素"></a>组成细胞的元素</h3><p><strong>大量元素:C H O N P S K Ca Mg（C H O N 为基本元素）<br>微量元素:Fe Mn Zn Cu B Mo</strong></p><h3 id="组成细胞的化合物"><a href="#组成细胞的化合物" class="headerlink" title="组成细胞的化合物"></a>组成细胞的化合物</h3><p><img src="https://s3.bmp.ovh/imgs/2021/10/81a17ae85393af49.jpg"></p><h4 id="检测生物组织中的糖类、脂肪和蛋白质"><a href="#检测生物组织中的糖类、脂肪和蛋白质" class="headerlink" title="检测生物组织中的糖类、脂肪和蛋白质"></a>检测生物组织中的糖类、脂肪和蛋白质</h4><p>斐林试剂：与糖类中的还原糖(无色)反应，生成<em>砖红色沉淀</em>（A：质量浓度为0.1g&#x2F;ml的NaOH溶液 B：质量浓度为0.05g&#x2F;ml的CuSO₄溶液）<br>苏丹Ⅲ 染液：将脂肪染成<em>橘黄色</em>（50%酒精溶液洗去浮色）<br>双缩脲试剂：与蛋白质发生作用，产生<em>紫色反应</em>（A：质量浓度为0.1g&#x2F;ml的NaOH溶液 B：质量浓度为0.01g&#x2F;ml的CuSO₄溶液）</p><h2 id="第二节-细胞中的无机物"><a href="#第二节-细胞中的无机物" class="headerlink" title="第二节 细胞中的无机物"></a>第二节 细胞中的无机物</h2><h3 id="细胞中的水"><a href="#细胞中的水" class="headerlink" title="细胞中的水"></a>细胞中的水</h3><p>生物体的含水量随着生物种类的不同有所差别<br>多细胞生物体的绝大多数细胞，必须浸润在以水为基础的液体环境中，把各个细胞在新陈代谢中产生的废物排出（自由水）<br><strong>水在细胞中以两种形式存在，绝大部分的水呈<em>游离</em>状态，可以自由流动，叫做<em>自由水</em>；一部分水与细胞内的其他物质相<em>结合</em>，叫做_结合水_</strong><br>自由水是细胞内良好的溶剂</p><h2 id="第三节-细胞中的糖类和脂质"><a href="#第三节-细胞中的糖类和脂质" class="headerlink" title="第三节 细胞中的糖类和脂质"></a>第三节 细胞中的糖类和脂质</h2><h2 id="第四节-蛋白质是生命活动的主要承担者"><a href="#第四节-蛋白质是生命活动的主要承担者" class="headerlink" title="第四节 蛋白质是生命活动的主要承担者"></a>第四节 蛋白质是生命活动的主要承担者</h2><h2 id="第五节-核酸是遗传信息的携带者"><a href="#第五节-核酸是遗传信息的携带者" class="headerlink" title="第五节 核酸是遗传信息的携带者"></a>第五节 核酸是遗传信息的携带者</h2><h1 id="第三章-细胞的基本结构"><a href="#第三章-细胞的基本结构" class="headerlink" title="第三章 细胞的基本结构"></a>第三章 细胞的基本结构</h1><h2 id="第一节-细胞膜的结构和功能"><a href="#第一节-细胞膜的结构和功能" class="headerlink" title="第一节 细胞膜的结构和功能"></a>第一节 细胞膜的结构和功能</h2><h2 id="第二节-细胞器之间的分工合作"><a href="#第二节-细胞器之间的分工合作" class="headerlink" title="第二节 细胞器之间的分工合作"></a>第二节 细胞器之间的分工合作</h2><h2 id="第三节-细胞核的结构和功能"><a href="#第三节-细胞核的结构和功能" class="headerlink" title="第三节 细胞核的结构和功能"></a>第三节 细胞核的结构和功能</h2>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;script src=&quot;https://sdk.jinrishici.com/v2/browser/jinrishici.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-&lt;div id=&quot;poem_sentence&quot;&gt;&lt;/div&gt;
-&lt;div id=&quot;poem_inf</summary>
-      
-    
-    
-    
-    
-    <category term="生物" scheme="https://wangyijin209.github.io/wangyijin209/tags/%E7%94%9F%E7%89%A9/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>生物答题</title>
-    <link href="https://wangyijin209.github.io/wangyijin209/2021/10/14/%E7%94%9F%E7%89%A9%E7%AD%94%E9%A2%98/"/>
-    <id>https://wangyijin209.github.io/wangyijin209/2021/10/14/%E7%94%9F%E7%89%A9%E7%AD%94%E9%A2%98/</id>
-    <published>2021-10-14T13:56:21.000Z</published>
-    <updated>2022-05-15T06:21:55.000Z</updated>
-    
-    <content type="html"><![CDATA[<script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script><div id="poem_sentence"></div><div id="poem_info"></div><script type="text/javascript">  jinrishici.load(function(result) {    var sentence = document.querySelector("#poem_sentence")    var info = document.querySelector("#poem_info")    sentence.innerHTML = result.data.content    info.innerHTML = '【' + result.data.origin.dynasty + '】' + result.data.origin.author + '《' + result.data.origin.title + '》'  });</script><hr><p>①避免错别字<br>②避免遗漏<br>③答题规范<br>④审题细致</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;script src=&quot;https://sdk.jinrishici.com/v2/browser/jinrishici.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-&lt;div id=&quot;poem_sentence&quot;&gt;&lt;/div&gt;
-&lt;div id=&quot;poem_inf</summary>
-      
-    
-    
-    
-    
-    <category term="生物" scheme="https://wangyijin209.github.io/wangyijin209/tags/%E7%94%9F%E7%89%A9/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>数学错题</title>
-    <link href="https://wangyijin209.github.io/wangyijin209/2021/10/13/%E6%95%B0%E5%AD%A6%E9%94%99%E9%A2%98/"/>
-    <id>https://wangyijin209.github.io/wangyijin209/2021/10/13/%E6%95%B0%E5%AD%A6%E9%94%99%E9%A2%98/</id>
-    <published>2021-10-13T14:06:36.000Z</published>
-    <updated>2022-05-15T06:21:55.000Z</updated>
-    
-    <content type="html"><![CDATA[<script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script><div id="poem_sentence"></div><div id="poem_info"></div><script type="text/javascript">  jinrishici.load(function(result) {    var sentence = document.querySelector("#poem_sentence")    var info = document.querySelector("#poem_info")    sentence.innerHTML = result.data.content    info.innerHTML = '【' + result.data.origin.dynasty + '】' + result.data.origin.author + '《' + result.data.origin.title + '》'  });</script><hr><p><img src="https://s3.bmp.ovh/imgs/2021/10/05724368444ec779.jpg"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;script src=&quot;https://sdk.jinrishici.com/v2/browser/jinrishici.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-&lt;div id=&quot;poem_sentence&quot;&gt;&lt;/div&gt;
-&lt;div id=&quot;poem_inf</summary>
-      
-    
-    
-    
-    
-    <category term="数学" scheme="https://wangyijin209.github.io/wangyijin209/tags/%E6%95%B0%E5%AD%A6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>政治必修一</title>
-    <link href="https://wangyijin209.github.io/wangyijin209/2021/10/05/%E6%94%BF%E6%B2%BB%E5%BF%85%E4%BF%AE%E4%B8%80/"/>
-    <id>https://wangyijin209.github.io/wangyijin209/2021/10/05/%E6%94%BF%E6%B2%BB%E5%BF%85%E4%BF%AE%E4%B8%80/</id>
-    <published>2021-10-05T03:26:28.000Z</published>
-    <updated>2022-05-15T06:21:55.000Z</updated>
-    
-    <content type="html"><![CDATA[<script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script><div id="poem_sentence"></div><div id="poem_info"></div><script type="text/javascript">  jinrishici.load(function(result) {    var sentence = document.querySelector("#poem_sentence")    var info = document.querySelector("#poem_info")    sentence.innerHTML = result.data.content    info.innerHTML = '【' + result.data.origin.dynasty + '】' + result.data.origin.author + '《' + result.data.origin.title + '》'  });</script><hr><p><a href="https://imgtu.com/i/4jaNwQ"><img src="https://z3.ax1x.com/2021/10/05/4jaNwQ.jpg"></a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;script src=&quot;https://sdk.jinrishici.com/v2/browser/jinrishici.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-&lt;div id=&quot;poem_sentence&quot;&gt;&lt;/div&gt;
-&lt;div id=&quot;poem_inf</summary>
-      
-    
-    
-    
-    
-    <category term="政治" scheme="https://wangyijin209.github.io/wangyijin209/tags/%E6%94%BF%E6%B2%BB/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>英语必修一</title>
-    <link href="https://wangyijin209.github.io/wangyijin209/2021/10/05/%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE%E4%B8%80/"/>
-    <id>https://wangyijin209.github.io/wangyijin209/2021/10/05/%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE%E4%B8%80/</id>
-    <published>2021-10-05T01:47:49.000Z</published>
-    <updated>2022-05-15T06:21:55.000Z</updated>
-    
-    <content type="html"><![CDATA[<script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script><div id="poem_sentence"></div><div id="poem_info"></div><script type="text/javascript">  jinrishici.load(function(result) {    var sentence = document.querySelector("#poem_sentence")    var info = document.querySelector("#poem_info")    sentence.innerHTML = result.data.content    info.innerHTML = '【' + result.data.origin.dynasty + '】' + result.data.origin.author + '《' + result.data.origin.title + '》'  });</script><hr><p><a href="https://imgtu.com/i/4jMNdK"><img src="https://z3.ax1x.com/2021/10/05/4jMNdK.jpg"></a><br><a href="https://imgtu.com/i/4jQkFO"><img src="https://z3.ax1x.com/2021/10/05/4jQkFO.jpg"></a><br><a href="https://imgtu.com/i/4jQ1k8"><img src="https://z3.ax1x.com/2021/10/05/4jQ1k8.jpg"></a><br><a href="https://imgtu.com/i/4jlNCD"><img src="https://z3.ax1x.com/2021/10/05/4jlNCD.jpg"></a><br><a href="https://imgtu.com/i/4jl0KA"><img src="https://z3.ax1x.com/2021/10/05/4jl0KA.jpg"></a><br><a href="https://imgtu.com/i/4jlxq1"><img src="https://z3.ax1x.com/2021/10/05/4jlxq1.jpg"></a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;script src=&quot;https://sdk.jinrishici.com/v2/browser/jinrishici.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-&lt;div id=&quot;poem_sentence&quot;&gt;&lt;/div&gt;
-&lt;div id=&quot;poem_inf</summary>
-      
-    
-    
-    
-    
-    <category term="英语" scheme="https://wangyijin209.github.io/wangyijin209/tags/%E8%8B%B1%E8%AF%AD/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>日有所得？</title>
-    <link href="https://wangyijin209.github.io/wangyijin209/2021/10/05/%E6%97%A5%E6%9C%89%E6%89%80%E5%BE%97%EF%BC%9F/"/>
-    <id>https://wangyijin209.github.io/wangyijin209/2021/10/05/%E6%97%A5%E6%9C%89%E6%89%80%E5%BE%97%EF%BC%9F/</id>
-    <published>2021-10-05T01:36:12.000Z</published>
-    <updated>2022-05-15T06:21:55.000Z</updated>
-    
-    <content type="html"><![CDATA[<script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script><div id="poem_sentence"></div><div id="poem_info"></div><script type="text/javascript">  jinrishici.load(function(result) {    var sentence = document.querySelector("#poem_sentence")    var info = document.querySelector("#poem_info")    sentence.innerHTML = result.data.content    info.innerHTML = '【' + result.data.origin.dynasty + '】' + result.data.origin.author + '《' + result.data.origin.title + '》'  });</script><hr><h3 id="日有所得"><a href="#日有所得" class="headerlink" title="日有所得"></a>日有所得</h3><p><a href="https://imgtu.com/i/4jKDbV"><img src="https://z3.ax1x.com/2021/10/05/4jKDbV.jpg"></a><br><a href="https://imgtu.com/i/4jKhK1"><img src="https://z3.ax1x.com/2021/10/05/4jKhK1.jpg"></a><br><a href="https://imgtu.com/i/4jK4Dx"><img src="https://z3.ax1x.com/2021/10/05/4jK4Dx.jpg"></a><br><a href="https://imgtu.com/i/4jK5b6"><img src="https://z3.ax1x.com/2021/10/05/4jK5b6.jpg"></a><br><a href="https://imgtu.com/i/4jKTUO"><img src="https://z3.ax1x.com/2021/10/05/4jKTUO.jpg"></a><br><a href="https://imgtu.com/i/4jK75D"><img src="https://z3.ax1x.com/2021/10/05/4jK75D.jpg"></a><br><a href="https://imgtu.com/i/4jKq8H"><img src="https://z3.ax1x.com/2021/10/05/4jKq8H.jpg"></a><br><img src="https://s3.bmp.ovh/imgs/2021/10/d684df2041158f67.jpg"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;script src=&quot;https://sdk.jinrishici.com/v2/browser/jinrishici.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-&lt;div id=&quot;poem_sentence&quot;&gt;&lt;/div&gt;
-&lt;div id=&quot;poem_inf</summary>
-      
-    
-    
-    
-    
-    <category term="化学" scheme="https://wangyijin209.github.io/wangyijin209/tags/%E5%8C%96%E5%AD%A6/"/>
-    
-  </entry>
-  
-  <entry>
     <title>机场+客户端配置</title>
     <link href="https://wangyijin209.github.io/wangyijin209/2021/10/04/%E6%9C%BA%E5%9C%BA-%E5%AE%A2%E6%88%B7%E7%AB%AF%E9%85%8D%E7%BD%AE/"/>
     <id>https://wangyijin209.github.io/wangyijin209/2021/10/04/%E6%9C%BA%E5%9C%BA-%E5%AE%A2%E6%88%B7%E7%AB%AF%E9%85%8D%E7%BD%AE/</id>
@@ -489,6 +275,126 @@
     
     
     <category term="github hexo" scheme="https://wangyijin209.github.io/wangyijin209/tags/github-hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>树莓派arm64位系统docker安装aria2</title>
+    <link href="https://wangyijin209.github.io/wangyijin209/2021/10/04/%E6%A0%91%E8%8E%93%E6%B4%BEarm64%E4%BD%8D%E7%B3%BB%E7%BB%9Fdocker%E5%AE%89%E8%A3%85aria2/"/>
+    <id>https://wangyijin209.github.io/wangyijin209/2021/10/04/%E6%A0%91%E8%8E%93%E6%B4%BEarm64%E4%BD%8D%E7%B3%BB%E7%BB%9Fdocker%E5%AE%89%E8%A3%85aria2/</id>
+    <published>2021-10-04T09:41:21.000Z</published>
+    <updated>2022-05-15T06:21:55.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script><div id="poem_sentence"></div><div id="poem_info"></div><script type="text/javascript">  jinrishici.load(function(result) {    var sentence = document.querySelector("#poem_sentence")    var info = document.querySelector("#poem_info")    sentence.innerHTML = result.data.content    info.innerHTML = '【' + result.data.origin.dynasty + '】' + result.data.origin.author + '《' + result.data.origin.title + '》'  });</script><hr><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=4010201&auto=1&height=66"></iframe><h3 id="docker"><a href="#docker" class="headerlink" title="docker"></a>docker</h3><p>64位已内置docker，请到64位系统github或gitee中的readme.md查看方法</p><h3 id="安装aria2"><a href="#安装aria2" class="headerlink" title="安装aria2"></a>安装aria2</h3><p>安装aria2-pro</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><span class="line">$ docker run -d \</span><br><span class="line">   --name aria2-pro \</span><br><span class="line">   --restart unless-stopped \</span><br><span class="line">   --log-opt max-size=1m \</span><br><span class="line">   -e PUID=<span class="variable">$UID</span> \</span><br><span class="line">   -e PGID=<span class="variable">$GID</span> \</span><br><span class="line">   -e UMASK_SET=022 \</span><br><span class="line">   -e RPC_SECRET=secret \</span><br><span class="line">   -e RPC_PORT=6800 \</span><br><span class="line">   -p 6800:6800 \</span><br><span class="line">   -e LISTEN_PORT=6888 \</span><br><span class="line">   -p 6888:6888 \</span><br><span class="line">   -p 6888:6888/udp \</span><br><span class="line">   -v /home/pi/aria2-config:/config \</span><br><span class="line">   -v /media/pi/downloads:/downloads \</span><br><span class="line">   p3terx/aria2-pro</span><br></pre></td></tr></table></figure><p>通过docker安装ariang网页端访问</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">$ docker run -d \</span><br><span class="line">   --name ariang \</span><br><span class="line">   --log-opt max-size=1m \</span><br><span class="line">   --restart unless-stopped \</span><br><span class="line">   -p 6880:6800 \</span><br><span class="line">   p3terx/ariang</span><br></pre></td></tr></table></figure><h3 id="通过网页查看"><a href="#通过网页查看" class="headerlink" title="通过网页查看"></a>通过网页查看</h3><p>浏览器打开<br><a href="http://p3terx.gitee.io/ariang/#!/new">http://p3terx.gitee.io/ariang/#!/new</a><br>点击ariaNg设置<br><a href="https://imgtu.com/i/4XZSw4"><img src="https://z3.ax1x.com/2021/10/04/4XZSw4.png" alt="4XZSw4.png"></a><br>设置ip<br><a href="https://imgtu.com/i/4XZVOO"><img src="https://z3.ax1x.com/2021/10/04/4XZVOO.png" alt="4XZVOO.png"></a><br>设为树莓派ip:6800<br>密钥要重新填写</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;script src=&quot;https://sdk.jinrishici.com/v2/browser/jinrishici.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;div id=&quot;poem_sentence&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;poem_inf</summary>
+      
+    
+    
+    
+    
+    <category term="raspberry-pi linux docker aria2" scheme="https://wangyijin209.github.io/wangyijin209/tags/raspberry-pi-linux-docker-aria2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>arm64怎么快速安装宝塔？</title>
+    <link href="https://wangyijin209.github.io/wangyijin209/2021/10/04/arm64%E6%80%8E%E4%B9%88%E5%BF%AB%E9%80%9F%E5%AE%89%E8%A3%85%E5%AE%9D%E5%A1%94%EF%BC%9F/"/>
+    <id>https://wangyijin209.github.io/wangyijin209/2021/10/04/arm64%E6%80%8E%E4%B9%88%E5%BF%AB%E9%80%9F%E5%AE%89%E8%A3%85%E5%AE%9D%E5%A1%94%EF%BC%9F/</id>
+    <published>2021-10-04T08:51:39.000Z</published>
+    <updated>2022-05-15T06:21:55.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script><div id="poem_sentence"></div><div id="poem_info"></div><script type="text/javascript">  jinrishici.load(function(result) {    var sentence = document.querySelector("#poem_sentence")    var info = document.querySelector("#poem_info")    sentence.innerHTML = result.data.content    info.innerHTML = '【' + result.data.origin.dynasty + '】' + result.data.origin.author + '《' + result.data.origin.title + '》'  });</script><hr><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=4010201&auto=1&height=66"></iframe><h3 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h3><p>众所周知，传统的宝塔界面安装🌚🌚🌚<br>所以，我们要用加速包安装宝塔</p><h3 id="加速包"><a href="#加速包" class="headerlink" title="加速包"></a>加速包</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">$ git <span class="built_in">clone</span> https://gitee.com/pdusb/pdusb-fast-btpanel.git</span><br><span class="line">$ <span class="built_in">cd</span> pdusb-fast-btpanel</span><br><span class="line">$ ./pdbolt-inst-bt-acel.sh</span><br><span class="line">$ bash /tmp/btp/pdbolt-bt-install/install.sh</span><br></pre></td></tr></table></figure><p><img src="https://pic.imgdb.cn/item/616ba09d2ab3f51d9159cb0e.jpg"></p><p>大概在5分钟，宝塔就安装好了，这时候🤔<br>该你大展身手了</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ sudo bt</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;script src=&quot;https://sdk.jinrishici.com/v2/browser/jinrishici.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;div id=&quot;poem_sentence&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;poem_inf</summary>
+      
+    
+    
+    
+    
+    <category term="linux bt" scheme="https://wangyijin209.github.io/wangyijin209/tags/linux-bt/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>用手机挖个矿？！</title>
+    <link href="https://wangyijin209.github.io/wangyijin209/2021/10/04/%E7%94%A8%E6%89%8B%E6%9C%BA%E6%8C%96%E4%B8%AA%E7%9F%BF%EF%BC%9F%EF%BC%81/"/>
+    <id>https://wangyijin209.github.io/wangyijin209/2021/10/04/%E7%94%A8%E6%89%8B%E6%9C%BA%E6%8C%96%E4%B8%AA%E7%9F%BF%EF%BC%9F%EF%BC%81/</id>
+    <published>2021-10-04T06:33:58.000Z</published>
+    <updated>2022-05-15T07:54:25.382Z</updated>
+    
+    <content type="html"><![CDATA[<script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script><div id="poem_sentence"></div><div id="poem_info"></div><script type="text/javascript">  jinrishici.load(function(result) {    var sentence = document.querySelector("#poem_sentence")    var info = document.querySelector("#poem_info")    sentence.innerHTML = result.data.content    info.innerHTML = '【' + result.data.origin.dynasty + '】' + result.data.origin.author + '《' + result.data.origin.title + '》'  });</script><hr><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=4010201&auto=1&height=66"></iframe><p>诶！这次还是termux，没想到吧！<br><del>首先，建议用armv8，armv7效率很低，这里挖的是门罗币（XMR）</del><br>⭐️⭐️⭐️手机挖矿会加速硬件老化，仅供娱乐</p><h3 id="申请钱包（在线）"><a href="#申请钱包（在线）" class="headerlink" title="申请钱包（在线）"></a>申请钱包（在线）</h3><p>打开官方链接申请钱包（需要魔法）：<br><a href="https://wallet.mymonero.com/">https://wallet.mymonero.com/</a><br>选择右下角的Create new wallet<br><a href="https://imgtu.com/i/4OXn8s"><img src="https://z3.ax1x.com/2021/10/04/4OXn8s.jpg" alt="申请"></a><br>然后勾选got it➡️next<br>记住接下来的一段中文⭐️它可以帮你找回钱包<br><a href="https://imgtu.com/i/4OjSdU"><img src="https://z3.ax1x.com/2021/10/04/4OjSdU.jpg" alt="4OjSdU.jpg"></a><br>然后按顺序点选刚才的文字<br><a href="https://imgtu.com/i/4Oj1SA"><img src="https://z3.ax1x.com/2021/10/04/4Oj1SA.jpg" alt="4Oj1SA.jpg"></a><br>最后copy一下你的钱包地址<br><a href="https://imgtu.com/i/4Oj4p9"><img src="https://z3.ax1x.com/2021/10/04/4Oj4p9.jpg" alt="4Oj4p9.jpg"></a></p><h3 id="查看手机cpu架构"><a href="#查看手机cpu架构" class="headerlink" title="查看手机cpu架构"></a>查看手机cpu架构</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$  <span class="built_in">uname</span> -a</span><br></pre></td></tr></table></figure><h3 id="安装linux发行版"><a href="#安装linux发行版" class="headerlink" title="安装linux发行版"></a>安装linux发行版</h3><p>建议用Ubuntu，具体方法看<a href="https://wangyijin209.github.io/wangyijin209/2021/10/04/%E5%9C%A8%E6%89%8B%E6%9C%BA%E4%B8%8A%E5%BC%80mc%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%88java%EF%BC%89step1/">https://wangyijin209.github.io/wangyijin209/2021/10/04/%E5%9C%A8%E6%89%8B%E6%9C%BA%E4%B8%8A%E5%BC%80mc%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%88java%EF%BC%89step1/</a></p><h3 id="下载程序（github）"><a href="#下载程序（github）" class="headerlink" title="下载程序（github）"></a>下载程序（github）</h3><p>安装依赖</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ sudo apt install git build-essential cmake libuv1-dev libssl-dev libhwloc-dev wget -y</span><br><span class="line">$ git <span class="built_in">clone</span> https://github.com/C3Pool/xmrig-C3.git</span><br></pre></td></tr></table></figure><h3 id="去除抽水率（不会可跳过）"><a href="#去除抽水率（不会可跳过）" class="headerlink" title="去除抽水率（不会可跳过）"></a>去除抽水率（不会可跳过）</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ vim xmrig-C3/src/donate.h</span><br></pre></td></tr></table></figure><p>1.键入i，插入<br>2.找到最后两行<br>3.将最后两行的1改为0<br><img src="https://s3.bmp.ovh/imgs/2021/10/3f5f094a81db45fb.png" alt="修改"></p><h3 id="编译安装"><a href="#编译安装" class="headerlink" title="编译安装"></a>编译安装</h3><p>armv8</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ <span class="built_in">mkdir</span> ~/xmrig-C3/build &amp;&amp; <span class="built_in">cd</span> ~/xmrig-C3/build &amp;&amp; cmake .. &amp;&amp; make -j$(<span class="built_in">nproc</span>) &amp;&amp; <span class="built_in">mv</span> xmrig ~ &amp;&amp; <span class="built_in">cd</span> ~ &amp;&amp; <span class="built_in">rm</span> -rf xmrig-C3</span><br></pre></td></tr></table></figure><p>armv7</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ <span class="built_in">mkdir</span> ~/xmrig-C3/build &amp;&amp; <span class="built_in">cd</span> ~/xmrig-C3/scripts &amp;&amp; <span class="built_in">chmod</span> +x *.* &amp;&amp; bash ./build_deps.sh</span><br><span class="line">$ <span class="built_in">cd</span> ~/xmrig-C3/build &amp;&amp; cmake .. -DARM_TARGET=7 -DXMRIG_DEPS=../scripts/deps &amp;&amp; make -j$(<span class="built_in">nproc</span>) &amp;&amp; <span class="built_in">mv</span> xmrig ~ &amp;&amp; <span class="built_in">cd</span> ~ &amp;&amp; <span class="built_in">rm</span> -rf xmrig-C3</span><br></pre></td></tr></table></figure><h3 id="启动！"><a href="#启动！" class="headerlink" title="启动！"></a>启动！</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ ./xmrig -u 48d9y8dwZWH96pu9Bw2FUtLMUs75ebaq1YPH5fN4artaixu6xNFpRizgXgNDwakJZcJLmNBvdUgFxVt6mG55bvbBDNMySXN -o mine.c3pool.com:13333 -p termux -a cn-pico</span><br></pre></td></tr></table></figure><p>-u指钱包<br>-o指矿池<br>-p指矿机名称<br>⭐️⭐️⭐️过几分钟，你的手机就🛫咯</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;script src=&quot;https://sdk.jinrishici.com/v2/browser/jinrishici.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;div id=&quot;poem_sentence&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;poem_inf</summary>
+      
+    
+    
+    
+    
+    <category term="linux cpu termux" scheme="https://wangyijin209.github.io/wangyijin209/tags/linux-cpu-termux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>在手机开mc服务器（java）step2</title>
+    <link href="https://wangyijin209.github.io/wangyijin209/2021/10/04/%E5%9C%A8%E6%89%8B%E6%9C%BA%E5%BC%80mc%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%88java%EF%BC%89step2/"/>
+    <id>https://wangyijin209.github.io/wangyijin209/2021/10/04/%E5%9C%A8%E6%89%8B%E6%9C%BA%E5%BC%80mc%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%88java%EF%BC%89step2/</id>
+    <published>2021-10-04T05:27:08.000Z</published>
+    <updated>2022-05-15T06:21:55.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script><div id="poem_sentence"></div><div id="poem_info"></div><script type="text/javascript">  jinrishici.load(function(result) {    var sentence = document.querySelector("#poem_sentence")    var info = document.querySelector("#poem_info")    sentence.innerHTML = result.data.content    info.innerHTML = '【' + result.data.origin.dynasty + '】' + result.data.origin.author + '《' + result.data.origin.title + '》'  });</script><hr><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=4010201&auto=1&height=66"></iframe><p>接step1：<a href="https://wangyijin209.github.io/wangyijin209/2021/10/04/%E5%9C%A8%E6%89%8B%E6%9C%BA%E4%B8%8A%E5%BC%80mc%E6%9C%8D%E5%8A%A1%E5%99%A8/">step1</a></p><h3 id="注册frp穿透"><a href="#注册frp穿透" class="headerlink" title="注册frp穿透"></a>注册frp穿透</h3><p>首先去樱花frp注册一个账号<br><a href="https://openid.13a.com/login">https://openid.13a.com/login</a><br><img src="https://s3.bmp.ovh/imgs/2021/10/3c7d087dfce63a11.png" alt="樱花frp"></p><h3 id="开始穿透"><a href="#开始穿透" class="headerlink" title="开始穿透"></a>开始穿透</h3><p>新建一个termux会话，进入linux容器<br>按照樱花frp的教程安装linux arm64版本<br>新建隧道时本地ip填127.0.0.1<br>本地端口填25565<br><img src="https://s3.bmp.ovh/imgs/2021/10/babab1d16f63d55c.png" alt="穿透"><br>然后开始穿透<br>穿透完成后在不同局域网的小伙伴就输入隧道的ip➕端口或者域名➕端口</p><h3 id="problems"><a href="#problems" class="headerlink" title="problems"></a>problems</h3><p>1.不想看到穿透内容，只想开一个会话怎么办？</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ sudo apt install screen</span><br><span class="line">$ screen -S frp</span><br></pre></td></tr></table></figure><p>在screen里进行穿透，服务运行之后按CTRL+a+d保存退出<br>如果想进入screen</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ screen -r frp</span><br></pre></td></tr></table></figure><p>2.服务端经常连不上怎么办？<br>（1）手机管家（不同品牌手机名称不同，差不多都是这个名字）➡️应用启动管理➡️将termux允许在后台运行<br>（2）下拉通知栏<br>获取唤醒锁</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;script src=&quot;https://sdk.jinrishici.com/v2/browser/jinrishici.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;div id=&quot;poem_sentence&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;poem_inf</summary>
+      
+    
+    
+    
+    
+    <category term="mc linux" scheme="https://wangyijin209.github.io/wangyijin209/tags/mc-linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>在手机上开mc服务器（java）step1</title>
+    <link href="https://wangyijin209.github.io/wangyijin209/2021/10/04/%E5%9C%A8%E6%89%8B%E6%9C%BA%E4%B8%8A%E5%BC%80mc%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%88java%EF%BC%89step1/"/>
+    <id>https://wangyijin209.github.io/wangyijin209/2021/10/04/%E5%9C%A8%E6%89%8B%E6%9C%BA%E4%B8%8A%E5%BC%80mc%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%88java%EF%BC%89step1/</id>
+    <published>2021-10-04T01:08:27.000Z</published>
+    <updated>2022-05-15T06:21:55.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script><div id="poem_sentence"></div><div id="poem_info"></div><script type="text/javascript">  jinrishici.load(function(result) {    var sentence = document.querySelector("#poem_sentence")    var info = document.querySelector("#poem_info")    sentence.innerHTML = result.data.content    info.innerHTML = '【' + result.data.origin.dynasty + '】' + result.data.origin.author + '《' + result.data.origin.title + '》'  });</script><hr><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=4010201&auto=1&height=66"></iframe><h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h2><p>一台手机，一个樱花frp账号<br>软件：teemux or utermux or zerotermux</p><h3 id="开始操作"><a href="#开始操作" class="headerlink" title="开始操作"></a>开始操作</h3><p>你需要选择一个linux发行版（建议debian），新手建议用moe，不用安装图形</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ pkg install -y curl ; bash -c <span class="string">&quot;<span class="subst">$(curl -L gitee.com/mo2/linux/raw/2/2)</span>&quot;</span></span><br></pre></td></tr></table></figure><p>安装时一路回车，到最后安装图形时按CTRL-C退出</p><h3 id="选择版本"><a href="#选择版本" class="headerlink" title="选择版本"></a>选择版本</h3><p>浏览器打开<a href="https://mcversions.net/">https://mcversions.net/</a><br>选择你想玩的版本<br><img src="https://s3.bmp.ovh/imgs/2021/10/d86434dd78b4f3ec.jpg" alt="mcversions"><br>点击download<br>右键download server jar，复制链接<br><img src="https://s3.bmp.ovh/imgs/2021/10/a7c636345f88d248.jpg" alt="server jar"><br>进入termux</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">$ sudo apt install wget<span class="comment">#安装wget</span></span><br><span class="line">$ <span class="built_in">mkdir</span> mc<span class="comment">#创建名为mc的文件夹</span></span><br><span class="line">$ <span class="built_in">cd</span> mc<span class="comment">#进入mc文件夹</span></span><br><span class="line">$ wget <span class="string">&quot;你复制的链接&quot;</span><span class="comment">#下载你复制的链接</span></span><br><span class="line">$ <span class="built_in">cd</span> <span class="comment">#回到主目录</span></span><br></pre></td></tr></table></figure><h3 id="安装java（不会的出门右拐！）"><a href="#安装java（不会的出门右拐！）" class="headerlink" title="安装java（不会的出门右拐！）"></a>安装java（不会的出门右拐！）</h3><p>别别别，开个玩笑，接着往下看</p><p>1.如果你选择的版本是1.17及以上，请选择java16<br>2.如果你选择的版本是1.17一下，可以选用java8或11<br>安装java方法<br>java8：<a href="https://bell-sw.com/pages/downloads/#/java-8-lts%EF%BC%88%E9%80%89%E6%8B%A9linux%E7%9A%84arm%E7%89%88%E6%9C%ACdeb%E5%8C%85%EF%BC%89">https://bell-sw.com/pages/downloads/#/java-8-lts（选择linux的arm版本deb包）</a><br>java16：<a href="https://www.oracle.com/java/technologies/javase-jdk16-downloads.html">https://www.oracle.com/java/technologies/javase-jdk16-downloads.html</a><br>操作同上</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">$ wget <span class="string">&quot;你复制的链接&quot;</span></span><br><span class="line">$ dpkg -i <span class="string">&quot;包名&quot;</span><span class="comment">#安装java</span></span><br><span class="line">$ java -version<span class="comment">#查看java是否安装成功</span></span><br></pre></td></tr></table></figure><p><img src="https://s3.bmp.ovh/imgs/2021/10/1436b8bf1010f703.png" alt="java -version"></p><h3 id="开始运行jar"><a href="#开始运行jar" class="headerlink" title="开始运行jar"></a>开始运行jar</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ <span class="built_in">cd</span> mc</span><br><span class="line">$ java -jar server.jar</span><br></pre></td></tr></table></figure><p>接下来会有一小段报错，是正常现象<br><img src="https://s3.bmp.ovh/imgs/2021/10/f24824b590902fe6.png" alt="报错"></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ <span class="built_in">ls</span></span><br></pre></td></tr></table></figure><p>你会看到多了两个文件</p><p>接下来编辑这两个文件</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ vi eula.txt</span><br></pre></td></tr></table></figure><p>键入i，开始插入<br>将文档末尾的false改为true<br>按esc输入:wq!（注意是英文的:）<br><img src="https://s3.bmp.ovh/imgs/2021/10/d1f04b2e6915dcdd.jpg" alt="false→true"></p><p>然后修改server.properties文件<br>还是用vi</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ vi server.properties</span><br></pre></td></tr></table></figure><p>键入i，插入<br>关闭出生点保护，你也可以不关:<br>将spawn-protection&#x3D;16改为spawn-protection&#x3D;0<br>将正版验证关闭（如果你和你的朋友都有正版mc，那当我没说）:<br>将online-mode&#x3D;true改为online-mode&#x3D;false<br>按esc，键入:wq!<br><img src="https://s3.bmp.ovh/imgs/2021/10/31bcddffde85e461.jpg" alt="修改完成"><br>这时已经基本配置好了，接下来启动服务器</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ java -Xmx1024m -Xms1024m -jar server.jar</span><br></pre></td></tr></table></figure><p>1024也可以改大，看手机配置吧QAQ</p><p>step1到这里就结束了，如果有好朋友在局域网内就可以快乐的联机了。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;script src=&quot;https://sdk.jinrishici.com/v2/browser/jinrishici.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;div id=&quot;poem_sentence&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;poem_inf</summary>
+      
+    
+    
+    
+    
+    <category term="mc linux" scheme="https://wangyijin209.github.io/wangyijin209/tags/mc-linux/"/>
     
   </entry>
   
