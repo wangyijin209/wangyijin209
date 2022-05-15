@@ -22,7 +22,7 @@
 <meta property="og:type" content="article">
 <meta property="og:title" content="fiora聊天室搭建">
 <meta property="og:url" content="https://wangyijin209.github.io/wangyijin209/2021/10/16/fiora%E8%81%8A%E5%A4%A9%E5%AE%A4%E6%90%AD%E5%BB%BA/index.html">
-<meta property="og:site_name" content="Hexo">
+<meta property="og:site_name" content="yijin&#39;s blog">
 <meta property="og:description" content="jinrishici.load(function(result) {     var sentence &#x3D; document.querySelector(&quot;#poem_sentence&quot;)     var info &#x3D; document.querySelector(&quot;#poem_info&quot;)     sentence.innerHTML &#x3D; result.data.content">
 <meta property="og:locale" content="zh_CN">
 <meta property="og:image" content="https://i.bmp.ovh/imgs/2021/10/2d024307728ad6c0.png">
@@ -36,7 +36,7 @@
   <!-- Canonical links -->
   <link rel="canonical" href="https://wangyijin209.github.io/wangyijin209/2021/10/16/fiora%E8%81%8A%E5%A4%A9%E5%AE%A4%E6%90%AD%E5%BB%BA/index.html">
   
-    <link rel="alternate" href="/atom.xml" title="Hexo" type="application/atom+xml">
+    <link rel="alternate" href="/atom.xml" title="yijin&#39;s blog" type="application/atom+xml">
   
   
     <link rel="icon" href="/favicon.png" type="image/x-icon">
@@ -47,6 +47,8 @@
   
   
   
+  
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk@1.4.0/dist/gitalk.min.css">
   
 <meta name="generator" content="Hexo 6.2.0"></head>
 
@@ -448,7 +450,7 @@
     
   <section id="comments">
   	
-      <div id="vcomments"></div>
+           
     
   </section>
 
@@ -601,29 +603,24 @@ window.jQuery || document.write('<script src="js/jquery.min.js"><\/script>')
 
    
     
-  <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/valine"></script>
+  <!-- <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css"> -->
+  <script src="//cdn.jsdelivr.net/npm/gitalk@1.6.2/dist/gitalk.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/blueimp-md5@2.10.0/js/md5.min.js"></script>
   <script type="text/javascript">
-  var GUEST = ['nick', 'mail', 'link'];
-  var meta = 'nick,mail,link';
-  meta = meta.split(',').filter(function(item) {
-    return GUEST.indexOf(item) > -1;
-  });
-  new Valine({
-    el: '#vcomments',
-    verify: false,
-    notify: false,
-    appId: '',
-    appKey: '',
-    placeholder: 'Just go go',
-    avatar: 'mm',
-    meta: meta,
-    pageSize: '10' || 10,
-    visitor: false
-  });
+  var gitalk = new Gitalk({
+    clientID: '58d9012b1fe0a6e43d52',
+    clientSecret: '18958551fb4230f709416bbe64b0a3c907e047d7',
+    repo: 'blogcomment',
+    owner: 'wangyijin209',
+    admin: ['wangyijin209'],
+    id: md5(location.pathname),
+    distractionFreeMode: true,
+    language: 'zh-CN',
+    enableHotKey: 'true'
+  })
+  gitalk.render('comments')
   </script>
-
-     
+      
 
 
 
